@@ -2,7 +2,7 @@
 
 This is the backend component of the grocery store sorting app
 You'll be importing the two components of this application:
-- groceryfrontend (https://github.com/rajivnathan/groceryfrontend.git)
+- groceryfrontend (https://github.com/codewind-resources/groceryfrontend.git)
 - grocerybackend (this repo)
 You'll be exploring the Visual Studio Code plugin.
 You'll be integrating the components and adding function to the application.
